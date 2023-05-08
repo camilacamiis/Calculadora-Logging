@@ -1,0 +1,6 @@
+mai. 08, 2023 7:44:07 PM Principal main
+INFORMAÇÕES: Log de informação
+mai. 08, 2023 7:44:07 PM Principal main
+ADVERTÊNCIA: Log de Aviso
+mai. 08, 2023 7:44:07 PM Principal main
+GRAVE: Log Severo
